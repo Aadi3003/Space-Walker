@@ -23,8 +23,8 @@ Inspired by the classic *Space Invaders*, this was created as part of our Class 
 - PyCharm (for development)
 
 ## 📸 Screenshots
-![Home Screen](assets/screenshots/homescreen.png)
-![In-Game](assets/screenshots/ingame.png)
+![Home Screen](homescreen.png)
+![In-Game](ingame.png)
 
 ## 🚀 Future Improvements (Optional Ideas)
 - Add power-ups or bonus items  
