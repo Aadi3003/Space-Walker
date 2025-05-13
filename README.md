@@ -22,6 +22,10 @@ Inspired by the classic *Space Invaders*, this was created as part of our Class 
 - Pygame  
 - PyCharm (for development)
 
+## 📸 Screenshots
+![Home Screen](assets/screenshots/homescreen.png)
+![In-Game](assets/screenshots/ingame.png)
+
 ## 🚀 Future Improvements (Optional Ideas)
 - Add power-ups or bonus items  
 - Introduce difficulty settings  
