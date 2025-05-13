@@ -18,7 +18,7 @@ Inspired by the classic *Space Invaders*, this was created as part of our Class 
 - **High score** display after game over
 
 ## 🛠️ Technologies Used
-- Python 3.x  
+- Python   
 - Pygame  
 - PyCharm (for development)
 
@@ -28,7 +28,7 @@ Inspired by the classic *Space Invaders*, this was created as part of our Class 
 - Save/load high scores across sessions
 
 ## 📸 Screenshots (optional)
-You can include a folder called `assets/` with a few game screenshots and link them here.
+- TBD
 
 ## 🎓 Project Context
 This game was developed as part of a school-level CS project in Class 12, aiming to combine fundamental programming skills with game development principles.
