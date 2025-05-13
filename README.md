@@ -27,9 +27,8 @@ Inspired by the classic *Space Invaders*, this was created as part of our Class 
 - Introduce difficulty settings  
 - Save/load high scores across sessions
 
-## 📸 Screenshots (optional)
-![Home Screen]()
-![In-Game]()
+## 📸 Screenshots 
+- TBD
 
 ## 🎓 Project Context
 This game was developed as part of a school-level CS project in Class 12, aiming to combine fundamental programming skills with game development principles.
